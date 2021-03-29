@@ -1,4 +1,4 @@
-### Hello there, I'm Varun Irani👋
+### Hello there. I'm Varun Irani👋
 
 ## I'm a Student, Pianist, and Developer!
 - 🌱 I’m currently learning everything 🤣
