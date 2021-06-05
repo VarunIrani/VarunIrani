@@ -36,7 +36,7 @@
 
 ---
 ### Not bad eh?
-<img align="left" alt="VarunIrani's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=VarunIrani&show_icons=true&hide_border=true&theme=cobalt" />
+<img align="left" alt="VarunIrani's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=VarunIrani&show_icons=true&hide_border=true&theme=cobalt&count_private=true" />
 
 
 
