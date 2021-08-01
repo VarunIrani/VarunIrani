@@ -17,7 +17,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="30em" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style="margin-right: 1em" />
+<img align="left" alt="IntelliJ Idea" width="30em" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" style="margin-right: 1em" />
 <img align="left" alt="HTML5" width="30em" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"style="margin-right: 1em" />
 <img align="left" alt="CSS3" width="30em" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"style="margin-right: 1em" />
 <img align="left" alt="JavaScript" width="30em" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="margin-right: 1em"/>
@@ -42,5 +42,5 @@
 
 [twitter]: https://twitter.com/IraniVarun
 [youtube]: https://www.youtube.com/channel/UCCqxBBVB7i7XZw8hn76i_wg
-[instagram]: https://www.instagram.com/__varunirani__/
+[instagram]: https://www.instagram.com/the_bawa_dev/
 [linkedin]: https://www.linkedin.com/in/varun-irani-b4275b192/
