@@ -3,7 +3,6 @@
 ## I'm a Student, Pianist, and Developer!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw, sing and play instruments.
 
 ### Get to know me 😉:
@@ -42,5 +41,5 @@
 
 [twitter]: https://twitter.com/IraniVarun
 [youtube]: https://www.youtube.com/channel/UCCqxBBVB7i7XZw8hn76i_wg
-[instagram]: https://www.instagram.com/the_bawa_dev/
+[instagram]: https://www.instagram.com/misophonic.pianist/
 [linkedin]: https://www.linkedin.com/in/varun-irani-b4275b192/
