@@ -1,10 +1,5 @@
 ### Hello there. I'm Varun Irani👋
 
-## I'm a Student, Pianist, and Developer!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other developers
-- ⚡ Fun fact: I love to draw, sing and play instruments.
-
 ### Get to know me 😉:
 
 [<img align="left" alt="codeSTACKr | YouTube" width="25em" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" style="margin-right: 1em" />][youtube]
