@@ -1,14 +1,5 @@
 ### Hello there. I'm Varun Irani👋
 
-### Get to know me 😉:
-
-[<img align="left" alt="codeSTACKr | YouTube" width="25em" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" style="margin-right: 1em" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="25em" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="margin-right: 1em" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="25em" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="margin-right: 1em"/>][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="25em" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="margin-right: 1em"/>][instagram]
-
-<br />
-
 ### Languages and Tools:
 
 <img align="left" alt="IntelliJ Idea" width="30em" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" style="margin-right: 1em" />
